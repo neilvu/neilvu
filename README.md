@@ -15,6 +15,6 @@ Contact Info:
 Email: neilvu80@gmail.com
 
 
-You can view all of my projects here below to see my full data analytics journey.
+You can view all of my projects here on Github Repository at the top page to see my full data analytics journey.
 
-a). 
+
