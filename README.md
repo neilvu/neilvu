@@ -12,7 +12,7 @@ I hope this reading helps you about my channel. Feel free to discuss me at anyti
 
 Contact Info:
 
-Email: neilvu80@gmail.com
+Email: dataanalyticsnv@gmail.com
 
 
 You can view all of my projects here on Github Repository at the top page to see my full data analytics journey.
